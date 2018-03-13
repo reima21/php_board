@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+header {
+    position: fixed;
+    top: 0;
+}
+
+p {
+    margin-bottom: 10px;
+    color: blue;
+}
