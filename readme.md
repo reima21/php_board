@@ -1,1 +1,2 @@
-readme作成中
+# php_board
+php, laravelを用いた掲示板
