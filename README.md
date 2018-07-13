@@ -20,18 +20,17 @@ php, laravelを用いたWeb掲示板
 
 
 ## specification
-・構成はトップページ, 新規投稿画面, コメント返信画面
-・掲示板の各書き込みには返信可能
-・返信があった書き込みを昇順で表示
+ - 構成はトップページ, 新規投稿画面, コメント返信画面
+ - 掲示板の各書き込みには返信可能
+ - 返信があった書き込みを昇順で表示
 
 ## Development environment
-開発環境：docker
-仮想マシン：centOS7
-言語：php7.0.22, html5
-フレームワーク：Laravel Framework 5.4.30
-データベース:mysql 14.14
+ - 開発環境：docker
+ - 仮想マシン：centOS7
+ - 言語：php7.0.22, html5
+ - フレームワーク：Laravel Framework 5.4.30
+ - データベース:mysql 14.14
 
 
 ## Author
-
 [reima21](https://github.com/reima21)
